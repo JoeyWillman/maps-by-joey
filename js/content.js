@@ -10,7 +10,7 @@ const SITE = {
   wordmark: "Maps by Joey",
   // The line under the big banner on the home screen.
   heroTagline:
-    "Field-worn cartography from the Pacific Northwest — maps, fieldwork, and the trail notes in between.",
+    "",
   footerCopyright: "© 2026 Joseph Willman",
 };
 
