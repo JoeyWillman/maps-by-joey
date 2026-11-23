@@ -25,8 +25,8 @@ const SITE = {
              normally the same as `key`) */
 const NAV_ITEMS = [
   { key: "maps", label: "Maps", icon: "assets/icons/map.png", screen: "maps" },
-  { key: "timeline", label: "Timeline", icon: "assets/icons/compass.png", screen: "timeline" },
-  { key: "journal", label: "Journal", icon: "assets/icons/camera.png", screen: "journal" },
+  { key: "fieldwork", label: "fieldwork", icon: "assets/icons/compass.png", screen: "fieldwork" },
+  { key: "field notes", label: "field notes", icon: "assets/icons/camera.png", screen: "field notes" },
   { key: "about", label: "About", icon: "assets/icons/bio.png", screen: "about" },
 ];
 
