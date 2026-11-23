@@ -14,7 +14,7 @@ const SITE = {
   footerCopyright: "© 2026 Joseph Willman",
 };
 
-/* ---------- NAV / ICON SCREEN ----------
+/* ---------- NAV / ICON SCREEN -----------
    This ONE list drives the top nav bar, the mobile menu, AND the icon
    screen you see after the down arrow on the home screen. Reorder, rename,
    re-icon, add, or remove an entry here and it updates everywhere.
